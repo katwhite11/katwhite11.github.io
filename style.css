@@ -5,7 +5,7 @@
 body{
     margin:0px;
     padding:0px;
-    background-image: url(/assets/images/banner_large.png);
+    background-image: url(/images/banner_large.png);
     height:100%;
     width: 100%;
     background-size: cover !important;
